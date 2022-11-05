@@ -9,3 +9,4 @@ Repositorio con código en el que se usó un dataset con fotos de rayos-X , inte
   - Resultados y testeo: minuto 8:00
   - Predicción: minuto 8:40
 - En la notebook llamada X-ray_CNN se encuentra todo el código generado
+- En carpeta images hay algunas imagenes para correr predicciones
